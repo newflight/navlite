@@ -3,10 +3,10 @@
 	"classify": "软件·社区",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "解说",
+		"name": "Tech-Catfish Blog",
 		"href": "https://blog.tech-catfish.cloudns.ch/",
 		"desc": "Small Blog",
-		"logo": "static/icons/52pojie.cn.ico"
+		"logo": "static/icons/45809211.ico"
 	}, {
 		"name": "镜像网站导航",
 		"href": "http://www.dayanzai.me/",
