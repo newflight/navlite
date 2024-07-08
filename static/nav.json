@@ -3,7 +3,7 @@
 	"classify": "软件·社区",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
+		"name": "解说",
 		"href": "https://blog.tech-catfish.cloudns.ch/",
 		"desc": "Small Blog",
 		"logo": "static/icons/52pojie.cn.ico"
@@ -18,7 +18,7 @@
 		"desc": "绿软、汉化软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "520解说",
+		"name": "解说",
 		"href": "https://www.youtube.com/@LRH520",
 		"desc": "软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
